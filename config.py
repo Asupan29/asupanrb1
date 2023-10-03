@@ -38,7 +38,7 @@ PROTECT_CONTENT = strtobool(os.environ.get("PROTECT_CONTENT", "False"))
 FORCE_SUB_1 = int(os.environ.get("FORCE_SUB_1", "-1001626895216"))
 FORCE_SUB_2 = int(os.environ.get("FORCE_SUB_2", "-1001721038526"))
 FORCE_SUB_3 = int(os.environ.get("FORCE_SUB_3", "-1001854645499"))
-FORCE_SUB_4 = int(os.environ.get("FORCE_SUB_4", "0"))
+FORCE_SUB_4 = int(os.environ.get("FORCE_SUB_4", "-1001883486794"))
 FORCE_SUB_5 = int(os.environ.get("FORCE_SUB_5", "0"))
 FORCE_SUB_6 = int(os.environ.get("FORCE_SUB_6", "0"))
 
